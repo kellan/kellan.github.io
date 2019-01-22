@@ -1,5 +1,7 @@
 ---
-title: Technical Leadership Coaching: FAQs
+layout: post
+title:  "FAQs from Coaching Technical Leadership"
+date:   2018-11-12 17:02:45 -0500
 ---
 I'm 6 months into my second extended sabbatical from operating, and like last time one of the things I'm doing with my time is teaching engineering leadership, and coaching teams interested in high impact engineering organizations.
 
