@@ -3,9 +3,7 @@ layout: post
 title:  "FAQs from Coaching Technical Leadership"
 date:   2018-11-12 17:02:45 -0500
 ---
-I'm 6 months into my second extended sabbatical from operating, and like last time one of the things I'm doing with my time is teaching engineering leadership, and coaching teams interested in high impact engineering organizations.
-
-It's my birthday this morning, so I'm taking a little time to reflect on the year to date, and as part of that here are the frequently asked questions I get about engineering leadership by the CEOs, CTOs, and VPEs I've been working with.
+I'm 6 months into my second extended sabbatical from operating.  It's my birthday today and I'm taking some time to reflect on what I've been up to this year.  And one of my favorite things I've been doing is coaching engineering organizations on how to be high impact.  Relecting on that half year of chatting with CEOs, CTOs and VPEs there have been a few FAQs. 
 
 ### Frequent Asked Questions (and Frequently Encountered Assertions)
 
