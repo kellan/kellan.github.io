@@ -6,7 +6,7 @@ layout: home
 ---
 Hi,
 
-I'm Kellan Elliott-McCrea. I made my first website in 1994.  This is the lightly updated version.
+I'm Kellan. I made my first website in 1994.  This is the lightly updated version.
 
 I think a lot about software and leading engineering teams, complex systems, and engineering capacity for social change.  Lately I'm thinking more climate change and healthcare.  
 
