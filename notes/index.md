@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Notes on Technical Leadership
+title: Notes on engineering leadership
 ---
 <div class="home">
   {%- if page.title -%}
