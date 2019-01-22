@@ -19,7 +19,7 @@ Any of those topics interest you? [Get in touch](/about).
 <ul class="post-link">
 	 {%- for post in site.posts -%}
 	<li>
-		<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+		<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }} <span class="post-meta">({{ post.date | date: "%b %-d" }})</span></a></li>
 	{%- endfor -%}
 </ul>
 
