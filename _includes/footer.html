@@ -25,7 +25,13 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <p>
+          {%- if layout.custom_footer_text -%}
+            {{- layout.custom_footer_text | escape -}}
+          {%- else -%}
+            {{- site.description | escape -}}
+          {%- endif -%}
+        </p>
       </div>
     </div>
 
