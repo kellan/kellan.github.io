@@ -47,7 +47,7 @@ I'm on [LinkedIn: Kellan Elliott-McCrea](https://www.linkedin.com/in/kellanem/),
 
 * CTO of [Etsy](https://etsy.com). Built and led Etsy's famously generative and human centered engineering organization through IPO.
 
-* Architect of [Flickr](https://flickr.com) (Yahoo). Social media doesn't have to an exploitative hell hole. 
+* Architect of [Flickr](https://flickr.com) (Yahoo). Social media doesn't have to be an exploitative hell hole. 
 
 
 [My GitHub](https://github.com/kellan/) isn't very interesting, but if you're a web developer of a certain age, you can walk down memory lane with [MagpieRSS](https://github.com/kellan/magpierss). If that doesn't produce enough (deeply ambivalent) nostalgia, you could always revisit the [Oauth spec](https://tools.ietf.org/html/rfc5849) I helped author.
