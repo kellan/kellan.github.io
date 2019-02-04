@@ -21,7 +21,7 @@ Once you understand that small teams are your unit of concurrency the answer to 
 
 ### 2. Larger Organizations Need Upgraded Infrastructure
 
-Coordination swamps all other costs in the development of software.  If concurrency is the limit on your momentum, than highly effective engineering organizations are characterized by how effectively they manage communication and coherence.
+Coordination swamps all other costs in the development of software.  If concurrency is the limit on your momentum, then highly effective engineering organizations are characterized by how effectively they manage communication and coherence.
 
 The difficulty of managing groups of engineers (and by abstraction groups of humans in general) exhibits step functions based on group size.  Below 8-12 people almost anything works. 12-25 people require better tools. This happens again at ~40-50, again at ~100, again at ~150 (a number suspiciously close to the Dunbar number, despite the wide misuse of Dunbar in popular culture), again at ~250, again at ~400-500, etc. 
 
