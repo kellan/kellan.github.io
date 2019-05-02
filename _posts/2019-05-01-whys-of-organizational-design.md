@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The 5 Whys of Organizational Design."
-date:   2019-05-01 01:02:45 -0500
+date:   2019-05-01 01:04:45 -0500
 ---
 
 Recently I wrote about [sizing engineering organizations](/notes/on-team-size), and how you can think about it as an exercise in managing concurrency.  In understanding org size I talk about the mental exercise of thinking about how the number of concurrent work streams you're taking on as a team applies upward pressure on the needs of your organization (e.g. you need more managers, who need more directors, who need a more senior CTO, etc) The inverse exercise is also useful. 
