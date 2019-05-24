@@ -16,14 +16,14 @@ When I'm designing Friday Wins here are the handful of values I'm thinking about
 
  **Learning oriented** - learning oriented cultures look forward to and eagerly participate in reviews. If your team dreads postmortems, or has lackluster end of sprint reviews, likely you aren't facilitating a learning oriented culture.  Rather than saving reflection for when something has gone wrong, make the cadence of a weekly Commit-Reflect cycle the heart of your software process, and make reflection a thing to look forward to.
 
-  Friday Wins vs Sprint Review.
+Call it "Friday Wins" vs "Sprint Review".
 
  **Organizational awareness** - the insight that you can't predict who needs what information in a complex system drove NASA's original "systems management" insight, and most high performing technology organizations since. (see also Team of Teams).  Friday Wins should be maximizing for ambient awareness and chance encounters. 
 
 Don't silo wins by team.  Invite the largest number of people who can reasonable attend.  Invest in making attendance easy (support for remotes, no meeting policies, etc). 
 
 
-**Shipping** - if you've worked on one of my teams you know that I believe that a relentless focus on shipping is primary driver of team effectiveness.  Shorter cycle times have been show to lead to both higher productivity and higher happiness.  Value and learning are both primarily captured only after a project is finished.  Confidence is gained most quickly in production.  etc etc.  If shipping is one of your values, center it in in your rituals.
+**Shipping** - if you've worked on one of my teams you know that I believe that a relentless focus on shipping is primary driver of team effectiveness.  Shorter cycle times have been shown to lead to both higher productivity and higher happiness.  Value and learning are both primarily captured only after a project is finished.  Confidence is gained most quickly in production.  etc etc.  If shipping is one of your values, center it in in your rituals.
 
 No presenting work at wins that's almost done, almost done waiting for a PR, will be merged to master next, is merged to master but hasn't been deployed.  Wins need to align with your values.
 
