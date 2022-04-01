@@ -4,7 +4,7 @@ title:  "Towards an understanding of technical debt"
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/widnr/6588149033/in/photolist-b3aZbr-8KScPJ-8A1VTq-eLV4ng-87UNqR-gtvGQb-biWMcv-89JjaA-pYMT8u-8pBgBb-9ZzxGH-9htL2G-74TEWQ-qQ7o5K-o3hQhD-j7iDqm-aq3FjJ-qtKEKv-nPQd5Y-aBWrzT-fLj6h-aZ3kC4-ozm7Co-dhjUrp-hYjpnY-tkQQMt-gWjC5m-AnpW4-8fJDv4-n9Y6W1-okiqfH-ynNyHR-oNnp4b-pnmsY5-psfHxo-eet1GA-e5FHQe-prE1Qi-nLgKFB-ikwLte-87XRQ5-kTbN8B-qGs2Li-wUcisw-85vF1z-ibpmcC-oUPwW2-984z9n-7MdP3H-pPQrWr" title="Somerset tire fire"><img src="https://farm8.staticflickr.com/7001/6588149033_d1b2b41cdf_b.jpg" width="720" alt="Somerset tire fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://flic.kr/p/b3aZbr" title="Somerset tire fire"><img src="/img/1_Eka94-nYU8AyPYB_fTTeFw.jpeg" width="720" alt="Somerset tire fire"></a>
 
 I’ve spent the last few years rather flippantly stating, “Technical debt doesn’t exist.” 
 
