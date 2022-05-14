@@ -18,7 +18,7 @@ Any of those topics interest you? [Get in touch](/about).
 
 <ul class="post-link">
 	 {%- for post in site.posts -%}
-	 {%- if post.mlp != null %}
+	 {%- if post.mlp != null or post.draft == true %}
 	 {% else %}
 	<li>
 		<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }} <span class="post-meta">({{ post.date | date: "%b %-d" }})</span></a></li>
