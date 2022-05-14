@@ -24,4 +24,6 @@ Find that path to being okay with being accountable, without being in control.
 
 Instead of control the move becomes having an org you trust. An org that understand your values, goals, thought processes, and decision making. An org that doesn't have to ask you a question, because they can imagine the good you and bad you sitting on either of their shoulders, advising them, without the real you ever having got looped in.
 
+Obviously this is not a complete catalog of all the reasons leadership can disempower their teams, including just bad leadership. But it explains a surprisingly large number of unsatisfying interactions even with people who are good, or just reasonable competent, leaders, but aren't able to find that path, because of anxiety, or past experiences, or whatnot, to letting go of control.
+
 Very few things are as uncomfortable as being accountable for something you have no direct control over or knowledge of, but that's the name of the game if you want a high functioning team that takes ownership in their work.
