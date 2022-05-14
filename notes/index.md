@@ -10,6 +10,8 @@ title: Notes on engineering leadership
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
+      {%- if post.mlp != null %}
+      {% else %}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -24,6 +26,7 @@ title: Notes on engineering leadership
           <a class="post-link" href="{{ post.url | relative_url }}">Read the full article</a>
         {%- endif -%}
       </li>
+      {% endif %}
       {%- endfor -%}
     </ul>
 
