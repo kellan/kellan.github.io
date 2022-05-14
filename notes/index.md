@@ -10,7 +10,7 @@ title: Notes on engineering leadership
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
-      {%- if post.mlp != null %}
+      {%- if post.mlp != null or post.draft == true %}
       {% else %}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
