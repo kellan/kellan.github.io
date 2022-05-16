@@ -35,4 +35,4 @@ A leaders inability to find that path, because of their anxiety, or past experie
 
 Very few things are as uncomfortable as being accountable for something you have no direct control over or knowledge of, but that's the name of the game if you want a high functioning team that takes ownership in their work.
 
-_(thanks to [Silvia Botros](https://twitter.com/dbsmasher) and [Sarah Milstein](https://twitter.com/SarahM), oh both saw an earlier draft of this post and gave great feedback, they didn't see this draft, and all the bad parts that remain aren't their fault)_
+_(thanks to [Silvia Botros](https://twitter.com/dbsmasher) and [Sarah Milstein](https://twitter.com/SarahM), who both saw an earlier draft of this post and gave great feedback, they didn't see this draft, and all the bad parts that remain aren't their fault)_
