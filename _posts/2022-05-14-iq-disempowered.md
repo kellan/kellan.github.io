@@ -3,6 +3,8 @@ layout: post
 title:  "Interview Question: Why do leaders keep disempowering their teams?"
 date:   2022-03-20 18:45:45 -0500
 ---
+<img src="/img/seagull.jpg" width="720" alt="Seagulls">
+
 Interviewing for a new job mostly sucks, but the fun part is you meet a whole lot of new, smart people, and also are called upon to reflect on what you've learned. Here's a question I got asked recently in an interview and some thoughts on it. (adapted from [the original Twitter thread](https://twitter.com/kellan/status/1523824054259654656))
 
 Question (_from memory, not verbatim_): 
