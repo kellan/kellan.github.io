@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interview Question: Why do leaders keep disempowering their teams?"
-date:   2022-03-20 18:45:45 -0500
+date:   2022-05-14 18:45:45 -0500
 ---
 <img src="/img/seagull.jpg" width="720" alt="Seagulls">
 
