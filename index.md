@@ -46,6 +46,8 @@ I'm on [LinkedIn: Kellan Elliott-McCrea](https://www.linkedin.com/in/kellanem/),
 
 <h3> Previously </h3>
 
+* VPE of [Dropbox](https://dropbox.com/). Transforming the iconic startup into a product development powerhouse.
+
 * SVP of [Blink Health](https://blinkhealth.com). Working to fix the affordability and accessibility of prescription medication in the US by overhauling the supply chain. Lead engineering, product and design.
 
 * CTO of [Etsy](https://etsy.com). Built and led Etsy's famously generative and human centered engineering organization through IPO.
