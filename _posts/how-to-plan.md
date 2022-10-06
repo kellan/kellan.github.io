@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "How to plan?"
-date:   2022-09-01 08:45:45 -0500
 ---
-How to plan?
 
 I was in a job interview the other day when I got asked about planning, and so I decided I'd turn the question into another "plucked from the interviews" blog post.  To be clear this is significantly expanded answer based on what I rattled off from the top of my head, but I think the themes are roughly the same. There isn't a one true way to plan, and this post won't tell you how to do it. Instead these are some things to think about in why planning is often so awful, often useless, and what you can do about it.
 
@@ -33,9 +31,9 @@ As you can see we're a long way from Do One Thing Well.
 
 ### Some guidance as you set out to build a planning process to satisfy the above constraints
 
-### 1. Bottoms up processes don't work. 
+### 1. Bottom up processes don't work. 
 
-There are a ton of critical insights we need from the people on the frontlines doing the work, but bottoms up planning isn't how to get it. Bottoms up planning starts at the squad/team level, the leaves of the hierachy, and aggregates and synthesizes the plans at each level as they move up the hierarchy.  We see a few predictable failure modes with bottoms up:
+There are a ton of critical insights we need from the people on the frontlines doing the work, but bottom up planning isn't how to get it. Bottom up planning starts at the squad/team level, the leaves of the hierachy, and aggregates and synthesizes the plans at each level as they move up the hierarchy.  We see a few predictable failure modes with bottom up:
 
 * Individual teams, almost definitionally, aren't in posession of the information and perspective to understand what is most important for the whole organization, and perforce will make locally optimal choices based on the information they do have. 
 * Individual teams during planning will the answer the question of what it would take _them_ to accomplish a given goal, without awareness of what other teams will accomplish.
@@ -44,7 +42,7 @@ The above two tendencies are a recipe for an organizaiton that grows larger ever
 
 Finally
 
-* Bottoms up processes fall victim to anchoring. In a bottoms up process you ask people to spend time and energy advocating for what they think the right thing to do is, and what resources they need to do it. They naturally emotionally invest in that outcome.  This now becomes the floor for their expectations.
+* Bottom up processes fall victim to anchoring. In a bottom up process you ask people to spend time and energy advocating for what they think the right thing to do is, and what resources they need to do it. They naturally emotionally invest in that outcome.  This now becomes the floor for their expectations.
 
 ### 2. Planning isn't the time to introduce anything new
 
@@ -118,7 +116,7 @@ Finally headcount is an area where you just need to be comfortable with ambiguit
 After you've removed as much of the headcount budgeting pressure from your planning process, your second goal should be to roll out something simple knowing it will always be fuzzy and inexact.
 Something like an end of year "Not to Exceed" number, i.e. have this many people on your team or less by the end of the year. (why will the process by fuzzy and inexact? Most companies struggle to have an accurate view of how people map to teams, how many people have been hired but not yet started, interns, etc) Hiring requires a healthy pipeline of candidates. A simple system allows you to keep the pipeline up and running, without having a stop-start interruption as you try to hit some complex intra-year target with predicted attrition curves, etc.
 
-How do we solve for that need of healthy teams to grow and why do we care? First we care, because new people joining a team means new ideas, new skills, new backgrounds, new opportunities for mentorship, fresh energy, and team continuity when someone (or a set of someones) leaves.  To enable a team to see growth without having to game Planning, it's important to keep a significant percentage of your budget in reserve, say 20%, that teams can propose to use. Holding back a significant percentage can be painful if you're looking at a sea of bottoms up proposals that already add up to 200% of your allocated budget.  Instead following some of these guidelines we've created 3 different pathways to get funding for a teams growth as appropriate for different types of work: a funding proposal for net new work, a planning process for run of the mill growth, and an exceptions process to access the reserve for opportunistic and organic hiring that keeps a team healthy.
+How do we solve for that need of healthy teams to grow and why do we care? First we care, because new people joining a team means new ideas, new skills, new backgrounds, new opportunities for mentorship, fresh energy, and team continuity when someone (or a set of someones) leaves.  To enable a team to see growth without having to game Planning, it's important to keep a significant percentage of your budget in reserve, say 20%, that teams can propose to use. Holding back a significant percentage can be painful if you're looking at a sea of bottom up proposals that already add up to 200% of your allocated budget.  Instead following some of these guidelines we've created 3 different pathways to get funding for a teams growth as appropriate for different types of work: a funding proposal for net new work, a planning process for run of the mill growth, and an exceptions process to access the reserve for opportunistic and organic hiring that keeps a team healthy.
 
 ### 7. So why do we even plan?
 
