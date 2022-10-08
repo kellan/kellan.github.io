@@ -4,21 +4,25 @@ title:  "How to plan?"
 tags: "interview question"
 ---
 
+How to plan? How hard could it be? And more thoughts on what is arguably the most important thing that most company have the hardest time with.
 
+<a href="https://twitter.com/kyleve/status/1577131769110794242"><img src="/img/planning.png" alt="???"></a>
 
-How to plan?
+I was in a job interview the other day when I got asked about planning, and so I decided I'd turn the question into another "plucked from the interviews" blog post. (see also [Interview Question: Why do leaders keep disempowering their teams?](https://kellanem.com/notes/iq-disempowered))  To be clear this is a significantly expanded answer than the one I rattled off from the top of my head on Zoom, but I think the themes are roughly the same.
 
-I was in a job interview the other day when I got asked about planning, and so I decided I'd turn the question into another "plucked from the interviews" blog post. (see also[Interview Question: Why do leaders keep disempowering their teams?](https://kellanem.com/notes/iq-disempowered))  To be clear this is a significantly expanded answer than the one I rattled off from the top of my head on Zoom, but I think the themes are roughly the same. And it's worth noting that because there isn't one true way to plan this post does not try to tackle that impossible topic. Instead these are some things to think about when addressing why planning is often so awful and so often useless.
+And it's worth noting that because there isn't one true way to plan this post does not try to tackle that impossible topic. Instead these are some things to think about when addressing why planning is often so awful and so often useless.
+
+_(Also I'll note that this blog post, like all my blog posts, is very much in draft, Early Access, etc, and feedback and even pull requests are always welcome)_
 
 ### Interview Question:
 
 > Have you been involved in annual planning? How did you handle it? Do you prefer top down or bottom up? Is thinking about trade-offs something you've done? Do you have a framework for that?
 
-This interview was for one of those jobs leading product and engineering which are coming back into vogue, sometimes called a GM, or CPTO, or just a VP of something or other. As an industry we've gotten pretty clear on the downsides of matrix management and the pendulum has started to swing the other way.  Though to paraphrase Andy Grove, “When deciding between organizing functionally and organizing along business units the right answer is always the other one.” (post for another day)
+This interview was for one of those jobs leading product and engineering which are coming back into vogue, sometimes called a GM, or CPTO, or just a VP of something or other. As an industry we've gotten pretty clear on the downsides of matrix management and the pendulum has started to swing the other way.  Though to paraphrase [Andy Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884), “When deciding between organizing functionally and organizing along business units the right answer is always the other one.” (post for another day)
 
 Let's also set aside the question of trade-offs for the moment, except to say, trade-offs are the very heart of engineering and engineering leadership. Software as a medium is so malleable that functionally anything can be made to work. Any language, architecture, approach, style, process, etc can be made to work given sufficient effort. Meaning we find ourselves not asked to choose between right and wrong answers, but between trade-offs. 
 
-Planning is a bit like software in that with enough effort anything can be made to work.  Consequently we aren't looking for the Right Way to Plan, as much as trying to solve for a set of constraints and things we've learned (the hard way) about how humans work. (Also like software: planning is way easier the smaller your team is)
+Planning is a bit like software in that with enough effort anything can be made to work. (_Anything! I've done planning with left over Halloween candy spread over the CEO's floor, and planning where everything was mapped to a Classical Greek era Olympic sport_) Consequently we aren't looking for the Right Way to Plan, as much as trying to solve for a set of constraints and things we've learned (the hard way) about how humans work. (Also like software: planning is way easier the smaller your team is)
 
 The first challenge we need to navigate about planning is we're usually using a single process (or small set of processes) to serve a bunch of different goals.
 
@@ -35,7 +39,7 @@ The first challenge we need to navigate about planning is we're usually using a 
 * Headcount planning and allocation. 
 * And a dozen other goals in any given instance.
 
-As you can see we're a long way from Do One Thing Well.  
+As you can see we're a long way from [Do One Thing Well](https://en.wikipedia.org/wiki/Unix_philosophy).  
 
 So here are a few rules of thumb for making planning suck less. 
 
