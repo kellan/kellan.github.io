@@ -103,7 +103,7 @@ Frameworks are a useful way to introduce constraints. 
 
 * An investment portfolio approach is a framework. 20% of our effort should be going to brand new efforts that are high risk and high reward. The number of people it takes to operate our mature products should decrease 20% YoY even as usage grows.
 
-* Capabilities models are a framework: we need to be able to X so we can unlock Y opportunity.
+* Capabilities models are a framework. We need to be able to X so we can unlock Y opportunity.
 
 For similar reasons to what we discussed in points 1 & 2, these constraints can't be uncovered by the planning process, they need to be constraints people know going into Planning. 
 
@@ -137,15 +137,15 @@ Stopping doing things is by default way less fun than starting things. Stopping 
 
 Also, we're in a hurry to start this new thing. It's exciting, it's important, we've already baked its success into next year's financial plan. We gotta get going. Cleaning up and deprecating the old thing, is going to have to wait.
 
-Run this cycle a few times and you'll see your technical debt explode (there is no such thing as technical debt, but sufficient for the moment), and your team's cynicism along with it.
+Run this cycle a few times and you'll see your technical debt explode ([there is no such thing as technical debt](https://kellanem.com/notes/towards-an-understanding-of-technical-debt), but sufficient for the moment), and your team's cynicism along with it.
 
-Instead emphasize with each team that you believe that their plans are hypotheses, and that you see their job as testing those hypotheses.  Setup regular conversations to ask how that testing process is going? What have they learned? What have they disproven? Where have they changed their mind? I would like to say the goal is to "Make Killing Bad Ideas Easy", but I'm afraid that isn't possible. You see 50% of all of our ideas are going to fail, and the other 49.9% will require multiple iterations before they succeed, and telling the difference between those two conditions is hard work.  So make it easier to kill bad ideas, and make it easy to talk about killing bad ideas sooner.
+Instead emphasize with each team that you believe that their plans are hypotheses, and that you see their job as testing those hypotheses.  Setup regular conversations to ask how that testing process is going. What have they learned? What have they disproven? Where have they changed their mind? I would like to say the goal is to "Make Killing Bad Ideas Easy", but I'm afraid that isn't possible. You see 50% of all of our ideas are going to fail, and the other 49.9% will require multiple iterations before they succeed, and telling the difference between those two conditions is hard work.  So make it _easier_ to kill bad ideas, and make it easy to talk about killing bad ideas _sooner_.
 
 ### 6. Minimize dependencies
 
 Dependencies are another area where Planning's attempt to serve many goals leads to problems. In Planning, as we've said, we are often being asked to think big, take risks, make big impactful bets. We're also being asked to contribute to a financial plan that needs to be reasonably accurate. These two conflicting desires meet at Dependencies..
 
-I can make a reasonable case for launching a new multi-billion dollar business next year, and all I will need is for everyone in the company to stop what they're doing, and work on my plan instead (aka agree to my dependencies), plus the additional thousand or so people I've put in my plan that we'll hire (that reminds me, let's write down a dependency on recruiting).  I may even be able to convince (bully?) some of those teams into agreeing to work on one of my dependencies. (or maybe I don't even ask and just write it down in plan?)  This all sounds ridiculous and yet you see it over and over again in Planning.
+I can make a reasonable case for launching a new multi-billion dollar business next year, and all I will need is for everyone in the company to stop what they're doing, and work on my plan (aka agree to my dependencies), plus the additional thousand or so people I've put in my plan that we'll hire (that reminds me, let's write down a dependency on recruiting).  I may even be able to convince (bully?) some of those teams into agreeing to work on one of my dependencies. (or maybe I don't even ask and just write it down in the plan?)  This all sounds ridiculous and yet you see it over and over again in Planning.
 
 The problem with there being a significant number of dependencies between teams, especially those that are critical to strategic plans, is you are tightly coupling those teams to the point where they are functionally the same team. Either they _should_ be the same team, at least for the span of this project/plan/intiative/etc or you should minimize the dependencies on the critical path. 
 
@@ -157,7 +157,7 @@ It seems logical that Planning would inform Headcount Planning and often they ar
 
 We can start shifting the high stakes nature of Planning by moving towards off cycle funding proposals as discussed. Team growth, and growth projects for the people on the team have then already been handled, and we can engage in Planning with a shared goal of producing the best holistic plan for the company.
 
-Additionally as mentioned in Constrains and Frameworks you should be quantifying the cost of the work we're already committed to. This avoids the common pressure to generate new projects just to keep a team funded.  Similarly reducing dependencies simplifies the sometimes 3-card monte of who is asking for headcount to fund the dependency and how that will be allocated (and are those headcount of people currently working for the company, or the people we'll hire in 6 months?)
+Additionally as mentioned in point 3 (Constraints and Frameworks) you should be quantifying the cost of the work we're already committed to. This avoids the common pressure to generate new projects just to keep a team funded.  Similarly reducing dependencies simplifies the sometimes 3-card monte of who is asking for headcount to fund the dependency and how that will be allocated (and are those headcount of people currently working for the company, or the people we'll hire in 6 months?)
 
 Finally headcount is an area where you just need to be comfortable with ambiguity.
 
