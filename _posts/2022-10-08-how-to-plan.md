@@ -44,15 +44,17 @@ As you can see we're a long way from [Do One Thing Well](https://en.wikipedia.or
 
 So here are a few rules of thumb for making planning suck less. 
 
-0. Do fewer things.
-1. Bottom up processes don't work. 
-2. Planning is the wrong time to introduce anything new.
-3. You must provide frameworks and constraints.
-4. Project planning has an inflection point.
-5. Don't wait to kill bad ideas.
-6. Minimize dependencies.
-7. Headcount planning won't map to your plans.
-8. What if money is no object?
+<ol start="0">
+<li>Do fewer things.</li>
+<li>Bottom up processes don't work.</li>
+<li>Planning is the wrong time to introduce anything new.</li>
+<li>You must provide frameworks and constraints.</li>
+<li>Project planning has an inflection point.</li>
+<li>Don't wait to kill bad ideas.</li>
+<li>Minimize dependencies.</li>
+<li>Headcount planning won't map to your plans.</li>
+<li>What if money is no object?</li>
+</ol>
 
 ### Some rules of thumb for making planning suck less. 
 
