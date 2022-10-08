@@ -13,7 +13,7 @@ I was in a job interview the other day when I got asked about planning, and so I
 
 And it's worth noting that because there isn't one true way to plan this post does not try to tackle that impossible topic. Instead these are some things to think about when addressing why planning is often so awful and so often useless.
 
-_(Also I'll note that this blog post, like all my blog posts, is very much in draft, Early Access, etc, and feedback and even pull requests are always welcome)_
+_(Also I'll note that this blog post, like all my blog posts, is very much in draft, Early Access, etc, and feedback and even [pull requests](https://github.com/kellan/kellan.github.io/blob/master/_posts/2022-10-08-how-to-plan.md) are always welcome)_
 
 ### Interview Question:
 
