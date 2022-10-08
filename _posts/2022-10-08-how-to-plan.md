@@ -67,7 +67,7 @@ There are a ton of critical insights we need from the people on the frontlines d
 * Individual teams, almost definitionally, aren't in possession of the information and perspective to understand what is most important for the whole organization, and perforce will make locally optimal choices based on the information they do have. 
 * Individual teams during planning will answer the question of what it would take _them_ to accomplish a given goal, without awareness of what other teams will accomplish.
 
-The above two tendencies are a recipe for an organization that grows larger every year, but is largely maintaining the status quo.  Ben Horowitz has written about this in [How to Ruin Your Company with One Bad Process](https://a16z.com/2014/07/22/how-to-ruin-your-company-with-one-bad-process/) His take isn't most charitable, but even people with the best intentions will walk into these traps.
+The above two tendencies are a recipe for an organization that grows larger every year, but is largely maintaining the status quo.  Ben Horowitz has written about this in [How to Ruin Your Company with One Bad Process](https://a16z.com/2014/07/22/how-to-ruin-your-company-with-one-bad-process/). His take isn't most charitable, but even people with the best intentions will walk into these traps.
 
 Finally
 
@@ -101,7 +101,7 @@ Frameworks are a useful way to introduce constraints. 
 
 * "Even overs" can be a useful framework. Our goal is to be a multi-product company which means prefer net dollar retention even over new customers. Ship new features even over multi-platform consistency.
 
-* An investment portfolio approach is a framework. 20% of our effort should be going to brand new efforts that are high risk and high reward. The number of people it takes to operate our mature products should decrease 20% YoY.
+* An investment portfolio approach is a framework. 20% of our effort should be going to brand new efforts that are high risk and high reward. The number of people it takes to operate our mature products should decrease 20% YoY even as usage grows.
 
 * Capabilities models are a framework: we need to be able to X so we can unlock Y opportunity.
 
