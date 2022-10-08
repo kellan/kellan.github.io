@@ -5,7 +5,7 @@ date:   2022-10-08 12:45:45 -0500
 tags: "interview question"
 ---
 
-How to plan? How hard could it be? And more thoughts on what is arguably the most important thing that most company have the hardest time with.
+How to plan? How hard could it be? 4k words on sunny October afternoon for people in tech observing the Season's Traditional Annual Planning Process, inspired by a recent interview question (and 25 years of variously painful planning processes).
 
 <a href="https://twitter.com/kyleve/status/1577131769110794242"><img src="/img/planning.png" alt="???"></a>
 
