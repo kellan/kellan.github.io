@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to plan?"
+date:   2022-10-08 12:45:45 -0500
 tags: "interview question"
 ---
 
@@ -22,7 +23,7 @@ This interview was for one of those jobs leading product and engineering which a
 
 Let's also set aside the question of trade-offs for the moment, except to say, trade-offs are the very heart of engineering and engineering leadership. Software as a medium is so malleable that functionally anything can be made to work. Any language, architecture, approach, style, process, etc can be made to work given sufficient effort. Meaning we find ourselves not asked to choose between right and wrong answers, but between trade-offs. 
 
-Planning is a bit like software in that with enough effort anything can be made to work. (_Anything! I've done planning with left over Halloween candy spread over the CEO's floor, and planning where everything was mapped to a Classical Greek era Olympic sport_) Consequently we aren't looking for the Right Way to Plan, as much as trying to solve for a set of constraints and things we've learned (the hard way) about how humans work. (Also like software: planning is way easier the smaller your team is)
+Planning is a bit like software in that with enough effort anything can be made to work. (_Anything! I've done planning with left over Halloween candy spread over the floor of the CEO's office, and planning where everything was mapped to a Classical Greek era Olympic sport_) Consequently we aren't looking for the Right Way to Plan, as much as trying to solve for a set of constraints and things we've learned (the hard way) about how humans work. (Also like software: planning is way easier the smaller your team is)
 
 The first challenge we need to navigate about planning is we're usually using a single process (or small set of processes) to serve a bunch of different goals.
 
