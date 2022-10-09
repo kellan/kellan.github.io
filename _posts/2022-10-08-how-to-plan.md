@@ -175,7 +175,7 @@ First we care, because new people joining a team creates potential for new ideas
 
 In tech there are companies for whom money is no object. The resources aren't constrained (for the moment). There is no need to evaluate the plans for their odds of success. You talk to people at these companies and they say things like, _"I was at (hypergrowth) for 14 months and my team grew by 100% every quarter" (until the layoffs)_.  Bottom up approaches are common in these companies.
 
-My experience being at hypergrowth companies, and also being at companies that were trying to be successful post hypergrowth is that it is important to remember that  that all code, all products, all marketing material, every piece of work product comes with long term costs, even if it's just the cost of deleting it (something most people find surprisingly difficult). Especially in a hypergrowth environment or when money and headcount are no object, you need to be better at planning, because the only constraints are the quality of your thinking.
+My experience being at hypergrowth companies, and also being at companies that were trying to be successful post hypergrowth is that it is important to remember that all code, all products, all marketing material, every piece of work product comes with long term costs, even if it's just the cost of deleting it (something most people find surprisingly difficult). Especially in a hypergrowth environment or when money and headcount are no object, you need to be better at planning, because the only constraints are the quality of your thinking.
 
 ### So why do we even plan?
 
