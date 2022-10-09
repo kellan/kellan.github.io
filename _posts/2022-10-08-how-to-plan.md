@@ -19,7 +19,7 @@ _(Also I'll note that this blog post, like all my blog posts, is very much in dr
 
 > Have you been involved in annual planning? How did you handle it? Do you prefer top down or bottom up? Is thinking about trade-offs something you've done? Do you have a framework for that?
 
-This interview was for one of those jobs leading product and engineering which are coming back into vogue, sometimes called a GM, or CPTO, or just a VP of something or other. As an industry we've gotten pretty clear on the downsides of matrix management and the pendulum has started to swing the other way.  Though to paraphrase [Andy Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884), “When deciding between organizing functionally and organizing along business units the right answer is always the other one.” (post for another day)
+This interview was for one of those jobs leading product and engineering which are coming back into vogue, sometimes called a GM, or CPTO, or just a VP of something or other. As an industry we've gotten pretty clear on the downsides of matrix management and the pendulum has started to swing the other way.  Though to paraphrase [Andy Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884), _“When deciding between organizing functionally and organizing along business units the right answer is always the other one.”_ (post for another day)
 
 Let's also set aside the question of trade-offs for the moment, except to say, trade-offs are the very heart of engineering and engineering leadership. Software as a medium is so malleable that functionally anything can be made to work. Any language, architecture, approach, style, process, etc can be made to work given sufficient effort. Meaning we find ourselves not asked to choose between right and wrong answers, but between trade-offs. 
 
@@ -77,11 +77,11 @@ Finally
 
 ### 2. Planning is the wrong time to introduce anything new.
 
-Most organizations have a formal period of time annually (or quarterly or every 13 weeks) when they "Do Planning''.  This period is usually called Planning. The implicit or explicit ask of Planning is often, "Tell us about all your exciting new ideas. We need your creativity to achieve our goals. Swing for the fences! Throw big rocks!"  This is a mistake.  
+Most organizations have a formal period of time annually (or quarterly or every 13 weeks) when they "Do Planning''.  This period is usually called Planning. The implicit or explicit ask of Planning is often, _"Tell us about all your exciting new ideas. We need your creativity to achieve our goals. Swing for the fences! Throw big rocks!"_  This is a mistake.  
 
 Look at that list of goals from earlier in the post that we are already trying to solve with Planning. Does this look like a good time to also get creative? Similarly leadership often feels like Planning is their opportunity to introduce the new direction they'd like to see the company move in. All this does is create a scramble, shallow thinking, and low quality plans.
 
-In most companies and organizations doing something new and meaningful requires us to coordinate with people across the organization (certainly in companies that have outgrown the project planning phase we discuss below in "Project planning has an inflection point.") To pick the canonical example, if we build and launch a new product without planning how it's going to be sold and marketed, and what infrastructure will be needed to support it, and without doing the research to understand how many times previously our company tried to launch this exact product then we'll fail. Which is something we see tech companies do over and over.  This kind of coordination is hard at the best of times. Planning is not the best of times. Planning is when everyone is too busy to have these conversations. (and too emotionally keyed up as they contemplate their budget for the coming year and what that means for their team.)
+In most companies and organizations doing something new and meaningful requires us to coordinate with people across the organization (certainly in companies that have outgrown the project planning phase we discuss below in ["Project planning has an inflection point."](#4-project-planning-has-an-inflection-point)) To pick the canonical example, if we build and launch a new product without planning how it's going to be sold and marketed, and what infrastructure will be needed to support it, and without doing the research to understand how many times previously our company tried to launch this exact product then we'll fail. Which is something we see tech companies do over and over.  This kind of coordination is hard at the best of times. Planning is not the best of times. Planning is when everyone is too busy to have these conversations. (and too emotionally keyed up as they contemplate their budget for the coming year and what that means for their team.)
 
 Instead, start working on new things when you aren't Planning. Document what you want to do/build/etc. Share the proposal with people. Get their explicit buy-in to support the new thing.  Test your assumptions and estimates with people in your organization with expertise that are different from yours. Get feedback from leadership about whether your idea is aligned with the direction of the organization (or if they're willing to change directions). Tell people how much it's going to cost: in terms of people assigned to it, time to iterate on it, to break through the noise in the market and educate your target customers, etc. Solicit internal interest for people who would be interested to join the effort if it gets approved.  This is a Funding Proposal, and it's a great process to run outside of Planning.
 
@@ -101,11 +101,11 @@ Metrics (and by extension OKRs) are perennially popular constraints. Revenue, ch
 
 Frameworks are a useful way to introduce constraints. 
 
-* "Even overs" can be a useful framework. Our goal is to be a multi-product company which means prefer net dollar retention even over new customers. Ship new features even over multi-platform consistency.
+* "Even overs" can be a useful framework. _Our goal is to be a multi-product company which means prefer net dollar retention even over new customers. Ship new features even over multi-platform consistency._
 
-* An investment portfolio approach is a framework. 20% of our effort should be going to brand new efforts that are high risk and high reward. The number of people it takes to operate our mature products should decrease 20% YoY even as usage grows.
+* An investment portfolio approach is a framework. _20% of our effort should be going to brand new efforts that are high risk and high reward. The number of people it takes to operate our mature products should decrease 20% YoY even as usage grows._
 
-* Capabilities models are a framework. We need to be able to X so we can unlock Y opportunity.
+* Capabilities models are a framework. _We need to be able to X so we can unlock Y opportunity._
 
 For similar reasons to what we discussed in points 1 & 2, these constraints can't be uncovered by the planning process, they need to be constraints people know going into Planning. 
 
@@ -133,7 +133,7 @@ Many organizations miss this critical inflection point and go sailing off into S
 
 ### 5. Don't wait to kill bad ideas.
 
-Just about every planning process pairs the question, "What are we going to start doing?" with the question, "What are we going to stop doing? Focus! Put more wood behind fewer arrows!". And yet somehow the plan for what we're going to stop doing never gets as much time and attention as the plan for what we're going to start doing. Which makes sense.
+Just about every planning process pairs the question, _"What are we going to start doing?"_ with the question, _"What are we going to stop doing? Focus! Put more wood behind fewer arrows!"_. And yet somehow the plan for what we're going to stop doing never gets as much time and attention as the plan for what we're going to start doing. Which makes sense.
 
 Stopping doing things is by default way less fun than starting things. Stopping means we tried something and it didn't work. Something that in recent memory everyone agreed was the most important thing we could be doing. Something that was so important that maybe we stopped doing something else in order to do this. (and as a manager, stopping means that when I told you this was the most important thing for you to work on, I was probably wrong, and I might look kind of dumb).
 
@@ -147,11 +147,11 @@ Instead emphasize with each team that you believe that their plans are hypothese
 
 Dependencies are another area where Planning's attempt to serve many goals leads to problems. In Planning, as we've said, we are often being asked to think big, take risks, make big impactful bets. We're also being asked to contribute to a financial plan that needs to be reasonably accurate. These two conflicting desires meet at Dependencies..
 
-I can make a reasonable case for launching a new multi-billion dollar business next year, and all I will need is for everyone in the company to stop what they're doing, and work on my plan (aka agree to my dependencies), plus the additional thousand or so people I've put in my plan that we'll hire (that reminds me, let's write down a dependency on recruiting).  I may even be able to convince (bully?) some of those teams into agreeing to work on one of my dependencies. (or maybe I don't even ask and just write it down in the plan?)  This all sounds ridiculous and yet you see it over and over again in Planning.
+I can make a reasonable case for launching a new multi-billion dollar business next year, and all I will need is for everyone in the company to stop what they're doing, and work on my plan (aka agree to my dependencies), plus the additional thousand or so people I've put in my plan that we'll hire (_that reminds me, let's write down a dependency on recruiting_).  I may even be able to convince (bully?) some of those teams into agreeing to work on one of my dependencies. (or maybe I don't even ask and just write it down in the plan?)  This all sounds ridiculous and yet you see it over and over again in Planning.
 
 The problem with there being a significant number of dependencies between teams, especially those that are critical to strategic plans, is you are tightly coupling those teams to the point where they are functionally the same team. Either they _should_ be the same team, at least for the span of this project/plan/intiative/etc or you should minimize the dependencies on the critical path. 
 
-As the person designing Planning, encourage people to build their plans on the foundation of things that are already working and shipped. New capabilities, and building support and excitement for them should be done via Funding Proposals outside this process (see "Planning is the wrong time to introduce anything new.")
+As the person designing Planning, encourage people to build their plans on the foundation of things that are already working and shipped. New capabilities, and building support and excitement for them should be done via Funding Proposals outside this process (see ["Planning is the wrong time to introduce anything new."](#2-planning-is-the-wrong-time-to-introduce-anything-new))
 
 ### 7. Headcount planning won't map to your plans
 
@@ -159,7 +159,7 @@ It seems logical that Planning would inform Headcount Planning and often they ar
 
 We can start shifting the high stakes nature of Planning by moving towards off cycle funding proposals as discussed. Team growth, and growth projects for the people on the team have then already been handled, and we can engage in Planning with a shared goal of producing the best holistic plan for the company.
 
-Additionally as mentioned in point 3 (Constraints and Frameworks) you should be quantifying the cost of the work we're already committed to. This avoids the common pressure to generate new projects just to keep a team funded.  Similarly reducing dependencies simplifies the sometimes 3-card monte of who is asking for headcount to fund the dependency and how that will be allocated (and are those headcount of people currently working for the company, or the people we'll hire in 6 months?)
+Additionally as mentioned in point 3 (Constraints and Frameworks) you should be quantifying the cost of the work we're already committed to. This avoids the common pressure to generate new projects just to keep a team funded.  Similarly reducing dependencies simplifies the sometimes 3-card monte of who is asking for headcount to fund the dependency and how that will be allocated (_and are those headcount of people currently working for the company, or the people we'll hire in 6 months?_)
 
 Finally headcount is an area where you just need to be comfortable with ambiguity.
 
@@ -173,7 +173,7 @@ First we care, because new people joining a team creates potential for new ideas
 
 ### 8. What if money is no object?
 
-In tech there are companies for whom money is no object. The resources aren't constrained (for the moment). There is no need to evaluate the plans for their odds of success. You talk to people at these companies and they say things like, "I was at (hypergrowth) for 14 months and my team grew by 100% every quarter" (until the layoffs).  Bottom up approaches are common in these companies.
+In tech there are companies for whom money is no object. The resources aren't constrained (for the moment). There is no need to evaluate the plans for their odds of success. You talk to people at these companies and they say things like, _"I was at (hypergrowth) for 14 months and my team grew by 100% every quarter" (until the layoffs)_.  Bottom up approaches are common in these companies.
 
 My experience being at hypergrowth companies, and also being at companies that were trying to be successful post hypergrowth is that it is important to remember that  that all code, all products, all marketing material, every piece of work product comes with long term costs, even if it's just the cost of deleting it (something most people find surprisingly difficult). Especially in a hypergrowth environment or when money and headcount are no object, you need to be better at planning, because the only constraints are the quality of your thinking.
 
