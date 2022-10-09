@@ -5,7 +5,7 @@ date:   2022-10-08 12:45:45 -0500
 tags: "interview question"
 ---
 
-How to plan? How hard could it be? 4k words on sunny October afternoon for people in tech observing the Season's Traditional Annual Planning Process, inspired by a recent interview question (and 25 years of variously painful planning processes).
+How to plan? How hard could it be? 4k words scribbled down on a sunny October afternoon for people in tech observing the Season's Traditional Annual Planning Process, inspired by a recent interview question (and 25 years of variously painful planning processes).
 
 <a href="https://twitter.com/kyleve/status/1577131769110794242"><img src="/img/planning.png" alt="???"></a>
 
@@ -45,15 +45,15 @@ As you can see we're a long way from [Do One Thing Well](https://en.wikipedia.or
 So here are a few rules of thumb for making planning suck less. 
 
 <ol start="0">
-<li>Do fewer things.</li>
-<li>Bottom up processes don't work.</li>
-<li>Planning is the wrong time to introduce anything new.</li>
-<li>You must provide frameworks and constraints.</li>
-<li>Project planning has an inflection point.</li>
-<li>Don't wait to kill bad ideas.</li>
-<li>Minimize dependencies.</li>
-<li>Headcount planning won't map to your plans.</li>
-<li>What if money is no object?</li>
+<li><a href="#0-do-fewer-things">Do fewer things.</a></li>
+<li><a href="#1-bottom-up-processes-dont-work">Bottom up processes don't work.</a></li>
+<li><a href="#2-planning-is-the-wrong-time-to-introduce-anything-new">Planning is the wrong time to introduce anything new.</a></li>
+<li><a href="#3-you-must-provide-frameworks-and-constraints">You must provide frameworks and constraints.</a></li>
+<li><a href="#4-project-planning-has-an-inflection-point">Project planning has an inflection point.</a></li>
+<li><a href="#5-dont-wait-to-kill-bad-ideas">Don't wait to kill bad ideas.</a></li>
+<li><a href="#6-minimize-dependencies">Minimize dependencies.</a></li>
+<li><a href="#7-headcount-planning-wont-map-to-your-plans">Headcount planning won't map to your plans.</a></li>
+<li><a href="#8-what-if-money-is-no-object">What if money is no object?</a></li>
 </ol>
 
 ### Some rules of thumb for making planning suck less. 
