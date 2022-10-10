@@ -91,7 +91,7 @@ The other option that also works well for a large class of ideas: just try them.
 
 Not signing up to do new things during a hectic time of the year when everyone is running around crazy doesn't just benefit cross functional and rarely exercised relationships. It is also a benefit for partners who usually do (or should) be working closely together, like engineering and product. Something like a funding proposal makes keeping these close relationships in sync simpler, and avoids the inevitable blows up that follow post planning.
 
-Sometimes Planning is taking place against an inescapable backdrop of chaos. For example frequent leadership changes, or other forms of executive chaos, can mean frequent radical changes in strategic direction and emphasis. We see teams react either by tearing up their plans and scrambling to create new ones, or by becoming unresponsive and rigid, waiting out the current regime. Having a regular practice that teams use to undertake important new work throughout the year can help to moderate consequences of either reaction.
+Sometimes Planning is taking place against an inescapable backdrop of chaos. For example frequent leadership changes, or other forms of executive chaos, can mean frequent radical changes in strategic direction and emphasis. We see teams react either by tearing up their plans and scrambling to create new ones, or by becoming rigid, waiting out the current regime. Having a regular practice that teams use to undertake important new work throughout the year can help to moderate consequences of either reaction, allowing change with resilience.
 
 ### 3. You must provide frameworks and constraints
 
