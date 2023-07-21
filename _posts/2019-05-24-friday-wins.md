@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick note: Friday wins and a case study in ritual design"
+title:  "Briefly: Friday wins and a case study in ritual design"
 date:   2019-05-24 01:04:45 -0500
 
 ---
