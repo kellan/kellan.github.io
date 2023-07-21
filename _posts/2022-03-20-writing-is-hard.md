@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick note: 4 Reasons Writing About Software is Hard"
+title:  "Briefly: 4 Reasons Writing About Software is Hard"
 date:   2022-03-20 18:45:45 -0500
 
 ---
