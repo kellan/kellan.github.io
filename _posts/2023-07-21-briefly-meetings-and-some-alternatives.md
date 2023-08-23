@@ -4,7 +4,7 @@ title:  "Briefly: The Value of Meetings, and Some Alternatives"
 date:   2023-07-20 12:45:45 -0500
 ---
 
-Shopify continues to attract attention for it's ridiculously reductionist takes productivity, from meeting armageddon to more recently a meeting cost calculator.  
+Shopify continues to attract attention for it's ridiculously reductionist takes on productivity, from meeting armageddon to more recently a meeting cost calculator.  
 
 The trope of "wow that was an expensive meeting" is an old one, based on the idea of adding up the hourly salary of all people in the room (especially the <abbr title="Highest Paid Person's Opinion">HIPPOs</abbr>) as a way to express opportunity cost. It can be a useful meme for emphasizing the cost of poorly run meetings: those without agendas, those allowed to run long, those allowed to conclude without action items, or those that tremble as if they were mad.  But it isn't meant to be taken _literally_ and used to shame your employees. That's just dumb. (though the fun fact coming out of Shopify's endeavor is apparently Tobi's hourly wage, for meeting purposes at least, is $310).
 
