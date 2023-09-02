@@ -4,7 +4,7 @@ title:  "Push and Pull"
 date:   2023-09-01 12:45:45 -0500
 ---
 
-A model I return to a lot when talking about engineering processes is Push and Pull. Often when we design a new process or system we struggle to get buy-in. 
+A model I return to a lot when talking about engineering processes is Push and Pull. Often when we design a new process or system we struggle to get buy-in. That lack of buy-in can often be traced to having forgotten the Push, the Pull, or both.
 
 We're all familiar with processes like "write a weekly status update" that start strong and eventually fade out to low participation, engineers automating their updates, and gibberish. When you ask people why participation faded you hear the same thing over and over, "It didn't feel like anyone was reading it". In this scenario, we've Pushed. We've told people they must do something, on a schedule, in a certain format. But we haven't Pulled, we haven't created a sense that the work is valuable, that there is a need it is filling. A low grade Pull is something like a practice of reading status updates at the weekly meeting. (It doesn't create _much_ Pull, unless there is regular meaningful discussion, but it's something)
 
