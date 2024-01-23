@@ -63,4 +63,29 @@ Layoffs are also hard emotionally. They often feel arbitrary and unfair. They ru
 
 As a leader a key job is to ensure that your company is a well run system that is a healthy and productive place to work. Layoffs are a major stress to that system, violating many of our implicit social contracts, breaking relationships, highlighting historical mistakes and failures, and bringing us face to face with the underlying business imperatives of the company. For a company that isn't ready for them they're a major rupture in the functioning of the system. Getting ahead of that and laying a healthy foundation is how you improve outcomes for everyone.
 
+## Some tips for after the layoffs
+* One piece of advice to a leader is try to not take things too personally, undoubtedly some people will feel aggrieved. 
+That may be communication on your side as a leader, or that may simply be an emotional response. 
+
+* So like any leader, I recommend you get some time to decompress, you may also need counselling. Take care of yourself. 
+
+* It's important your team feels that there's a strategy in place. It may realistically take a few months to get there. Your team will probably be over worked, and there'll be some fires to put out. Nevertheless one thing I've realised is that teams can be incredibly resilient. So make sure to celebrate this. 
+
+* Your team will be worried about their jobs, some will look for others. You will face some attrition, perhaps even some performance issues that are residual. You as a leader should deal with these issues as soon as possible. 
+
+* You may find that some core metrics actually improve afterwards. I've been through layoffs where revenue actually increased afterwards. It's important to align your strategy as much as possible to the new reality you're facing. 
+
+* A team building or offsite, budget permitting can be a great idea. There's something healing about coming together away from work, to allow the team a chance to gel, reflect and maybe even share their own feedback. 
+
+* Another compensation remark is some token cash or increase in ESOP to retain staff. Furthermore simply appreciating your team, and dedicating time to them takes some time. 
+
+* Do your best in terms of references and severance for those who've left (this should be agreed before the layoff happens), lean on your HR team for support, as there'll be undoubtedly be some follow up work over the following weeks or months. Nevertheless as a leader you need to focus on the team you have left, you need to direct and steer them through the coming months. 
+
+* Do more 1:1's than normal - increase your frequency of discussion. 
+
+* Your team will want updates on budgets, burn rate and such. Ideally you're transparent about this before hand but make sure to include in all hands some updates on key metrics. 
+
+* Realise and tell your team this, that fundamentally there are business cycles, even cycles of team growth and contraction. And that there's nothing morally wrong or otherwise with making hard decisions like this. You have to reset your organisation to deal with reality. 
+
 Like I said at the top of the post, this is far from being a complete how to on layoffs, just some tips and frameworks that have helped me.  What are yours?
+
