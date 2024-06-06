@@ -26,7 +26,7 @@ It allows people with less power to dissent from leadership or from the collecti
 
 Where we get into trouble is when anonymous questions give folks a cheap and easy public venue to express dissatisfaction and dissent. As someone who has spent my fair share of time in jail for public dissent I am pro-dissent. But broadcasting anonymous questions creates an asymmetry where it is easier to disrupt communication than to create understanding. You can think of it as a parallel to spam where it is infinitely cheaper to send spam than to fight it and how that means certain venues of communication can't exist because they have no defenses.
 
-Anonymous questions don't even have to be answered as many teams use tools or processes that show the questions, and so the act of asking the question is now primarily a message directed at the larger team with the question answer's role in the whole exchange being perfunctory. 
+Anonymous questions don't even have to be answered as many teams use tools or processes that show the questions, and so the act of asking the question is now primarily a message directed at the larger team with the question answerer's role in the whole exchange being perfunctory. 
 
 ### A Quick Suggestion on Splitting the Difference
 
