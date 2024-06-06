@@ -46,6 +46,6 @@ Now I'm empowered with the tools to start building trust and clarity by choosing
 
 If I choose not to answer a question, I can state that publicly, "Hey, I got a question about why this place sucks so much, which lacks specificity for me to be able to address it", or "Hey, I received questions that touch on topics that are the private information of an individual and I won't be addressing those."  Or I can just not. It's a balancing act. When we think about our 3 goals for Q+A choosing which questions to answer, and which questions not to answer requires judgment. But it doesn't require fast-on-your-feet judgement. Which makes it easier. And if I'm consistently not answering the hard questions that come in, people will know. Because people talk. 
 
-Nothing earth shattering here, but having seen teams blow themselves up one too many times on anonymous questions, please take this as my suggestion to split the difference, and take performative nature out of the question asking and the fast footwork out of the question answering.
+Nothing earth shattering here, but having seen teams blow themselves up one too many times on anonymous questions, please take this as my suggestion to split the difference, and take the performative nature out of the question asking and the fast footwork out of the question answering.
 
 (And this was not written in response to any of the lovely questions my team asked me this week, I promise! Like so many of these blog posts I found myself giving the same advice I'd given dozens of times before and thought I'd write it down)
