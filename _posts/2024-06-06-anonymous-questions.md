@@ -4,7 +4,7 @@ title:  "Briefly: Anonymous Questions"
 date:   2024-06-05 06:45:45 -0500
 ---
 
-As leadership Q+A serves several important functions.
+As leadership, Q+A serves several important functions.
 
 ### The first, obviously, is to answer questions people have. 
 
