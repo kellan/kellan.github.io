@@ -34,9 +34,9 @@ All of that was a long preamble for a quick suggestion on how to split the diffe
 
 People need a forum for asking anonymous questions from time to time. They need a forum for asking questions publicly. They don't have to be the same forum.
 
-Instead for anonymous questions what I like is:
+Instead for live anonymous questions what I like is:
 
-* Use a trusted 3rd party tool like Google Forms (and not like an engagement survey platform paid for by the company).
+* Use a trusted 3rd party tool like Google Forms that allows for anonymous submissions (and not like an engagement survey platform paid for by the company).
 
 * Give people a time window to submit their questions.
 
