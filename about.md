@@ -16,7 +16,7 @@ Any of those topics interest you? Get in touch.
 
 Previously VPE Dropbox, SVP Blink Health, CTO Etsy, Flickr Architect, Tides Foundation Engineer, Palm Computing Principal Engineer, MetaEvents Founder.
 
-Technical solutions for social problems. #47. A's dad. Hope before optimism.
+Technical solutions for social problems. A's dad. Hope before optimism.
 
 For fun: 🚴 ☕ 🥾 📚 🎭 
 
